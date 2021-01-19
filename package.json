@@ -28,5 +28,7 @@
     "README.md"
   ],
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  }
 }
