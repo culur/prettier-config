@@ -1,6 +1,9 @@
 const isWin = require('os').platform() === 'win32';
 
-module.exports = {
+/**
+ * @type {import('./types').PrettierOptions}
+ */
+const options = {
     semi: true,
     singleQuote: true,
     tabWidth: 4,
@@ -36,3 +39,5 @@ module.exports = {
         },
     ],
 };
+
+module.exports = options;
