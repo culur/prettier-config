@@ -1,0 +1,25 @@
+{
+  "name": "@culur/prettier-config",
+  "version": "0.0.1",
+  "description": "Sharing Prettier configurations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/culur/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/culur/prettier-config/issues"
+  },
+  "homepage": "https://github.com/culur/prettier-config#readme",
+  "author": "Phạm Hồng Phúc <phamhongphuc.info@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "prettier"
+  ],
+  "scripts": {},
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
