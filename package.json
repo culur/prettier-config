@@ -16,12 +16,18 @@
     "config",
     "prettier"
   ],
-  "scripts": {},
+  "scripts": {
+    "fix": "run-s fix:*",
+    "test": "run-s test:*",
+    "test:spelling": "cspell **"
+  },
   "engines": {
     "node": ">=12"
   },
   "dependencies": {},
   "devDependencies": {
+    "@cspell/dict-vi-vn": "^1.0.20",
+    "cspell": "^5.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "npm-run-all": "^4.1.5"
   }
