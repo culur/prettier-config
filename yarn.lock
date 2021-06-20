@@ -5035,9 +5035,9 @@ prepend-http@^1.0.1:
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
 
 prettier@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
-  integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.1.tgz#76903c3f8c4449bc9ac597acefa24dc5ad4cbea6"
+  integrity sha512-p+vNbgpLjif/+D+DwAZAbndtRrR0md0MwfmOVN9N+2RgyACMT+7tfaRnT+WDPkqnuVwleyuBIG2XBxKDme3hPA==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
@@ -6296,9 +6296,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 typescript@^4.1.4:
-  version "4.1.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.4.tgz#f058636e2f4f83f94ddaae07b20fd5e14598432f"
-  integrity sha512-+Uru0t8qIRgjuCpiSPpfGuhHecMllk5Zsazj5LZvVsEStEjmIRRBZe+jHjGQvsgS7M1wONy2PQXd67EMyV6acg==
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.4.tgz#3f85b986945bcf31071decdd96cf8bfa65f9dcbc"
+  integrity sha512-uauPG7XZn9F/mo+7MrsRjyvbxFpzemRjKEZXS4AK83oP2KKOJPvb+9cO/gmnv8arWZvhnjVOXz7B49m1l0e9Ew==
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.6"
