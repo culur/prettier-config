@@ -19,6 +19,7 @@ const options: PrettierOptions = {
                 '.babelrc',
                 '.czrc',
                 '.eslintrc',
+                '.gqlconfig',
                 '.prettierrc',
                 '.releaserc',
                 '.stylelintrc',
