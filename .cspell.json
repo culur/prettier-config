@@ -3,14 +3,20 @@
     "version": "0.1",
     "language": "en",
     "allowCompoundWords": true,
-    "dictionaries": ["vi-vn"],
-    "import": ["@cspell/dict-vi-vn/cspell-ext.json"],
     "words": [
         // alphabetical order
         "culur",
         "czrc",
+        "gqlconfig",
         "prettierrc",
-        "releaserc"
+        "releaserc",
+        "stylelintrc"
+    ],
+    "ignoreWords": [
+        // alphabetical order
+        "Phạm",
+        "Hồng",
+        "Phúc"
     ],
     "ignorePaths": [
         "node_modules/**",
