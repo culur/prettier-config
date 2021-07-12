@@ -9,8 +9,10 @@
         // alphabetical order
         "culur",
         "czrc",
+        "gqlconfig",
         "prettierrc",
-        "releaserc"
+        "releaserc",
+        "stylelintrc"
     ],
     "ignorePaths": [
         "node_modules/**",
