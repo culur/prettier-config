@@ -41,6 +41,7 @@ logs
 *.log
 
 # Linter
+.browserslistrc
 .editorconfig
 .eslintignore
 .markdownlintignore

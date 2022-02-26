@@ -1,4 +1,4 @@
-# Typescript Library Changelog.
+# `@culur/prettier-config` changelog.
 
 # [0.2.0](https://github.com/culur/prettier-config/compare/v0.1.0...v0.2.0) (2021-06-22)
 
