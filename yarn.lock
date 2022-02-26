@@ -694,6 +694,7 @@ __metadata:
     "@types/node": ^17.0.21
     "@types/prettier": ^2.4.4
     babel-plugin-module-resolver: ^4.1.0
+    conventional-changelog-conventionalcommits: ^4.6.3
     cspell: ^5.18.5
     cz-conventional-changelog: ^3.3.0
     dotenv-cli: ^5.0.0
@@ -2085,6 +2086,17 @@ __metadata:
     compare-func: ^2.0.0
     q: ^1.5.1
   checksum: 6ed4972fce25a50f9f038c749cc9db501363131b0fb2efc1fccecba14e4b1c80651d0d758d4c350a609f32010c66fa343eefd49c02e79e911884be28f53f3f90
+  languageName: node
+  linkType: hard
+
+"conventional-changelog-conventionalcommits@npm:^4.6.3":
+  version: 4.6.3
+  resolution: "conventional-changelog-conventionalcommits@npm:4.6.3"
+  dependencies:
+    compare-func: ^2.0.0
+    lodash: ^4.17.15
+    q: ^1.5.1
+  checksum: 7b8e8a21ebb56f9aaa510e12917b7c609202072c3e71089e0a09630c37c2e8146cdb04364809839b0e3eb55f807fe84d03b2079500b37f6186d505848be5c562
   languageName: node
   linkType: hard
 
