@@ -73,6 +73,19 @@ copy "node_modules\@culur\prettier-config\.prettierignore" ".prettierignore"
 
 It will copy the `.prettierignore` from `@culur/prettier-config` to your project root folder.
 
+### Scripts
+
+Some commonly used scripts in `package.json`.
+
+```json
+{
+  "scripts": {
+    "fix:prettier": "prettier ** --write",
+    "test:prettier": "prettier ** --list-different"
+  }
+}
+```
+
 ## Related
 
 - [Prettier](https://github.com/prettier/prettier) - an opinionated code formatter.
