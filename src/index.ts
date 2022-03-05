@@ -1,8 +1,8 @@
-import { PrettierOptions } from './typings/prettier';
+import type { Config } from 'prettier';
 import os from 'os';
 
 const isWin = os.platform() === 'win32';
-const options: PrettierOptions = {
+const options: Config = {
     semi: true,
     singleQuote: true,
     tabWidth: 4,
