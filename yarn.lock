@@ -14,7 +14,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/cli@npm:^7.17.6":
+"@babel/cli@npm:7.17.6":
   version: 7.17.6
   resolution: "@babel/cli@npm:7.17.6"
   dependencies:
@@ -58,7 +58,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:^7.17.5":
+"@babel/core@npm:7.17.5":
   version: 7.17.5
   resolution: "@babel/core@npm:7.17.5"
   dependencies:
@@ -684,26 +684,26 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@culur/prettier-config@workspace:."
   dependencies:
-    "@babel/cli": ^7.17.6
-    "@babel/core": ^7.17.5
-    "@semantic-release/changelog": ^6.0.1
-    "@semantic-release/exec": ^6.0.3
-    "@semantic-release/git": ^10.0.1
-    "@semantic-release/github": ^8.0.2
-    "@semantic-release/npm": ^9.0.0
-    "@types/node": ^17.0.21
-    "@types/prettier": ^2.4.4
-    babel-plugin-module-resolver: ^4.1.0
-    conventional-changelog-conventionalcommits: ^4.6.3
-    cspell: ^5.18.5
-    cz-conventional-changelog: ^3.3.0
-    dotenv-cli: ^5.0.0
-    markdownlint-cli: ^0.31.1
-    npm-run-all: ^4.1.5
-    prettier: ^2.5.1
-    rimraf: ^3.0.2
-    semantic-release: ^19.0.2
-    typescript: ^4.5.5
+    "@babel/cli": 7.17.6
+    "@babel/core": 7.17.5
+    "@semantic-release/changelog": 6.0.1
+    "@semantic-release/exec": 6.0.3
+    "@semantic-release/git": 10.0.1
+    "@semantic-release/github": 8.0.2
+    "@semantic-release/npm": 9.0.0
+    "@types/node": 17.0.21
+    "@types/prettier": 2.4.4
+    babel-plugin-module-resolver: 4.1.0
+    conventional-changelog-conventionalcommits: 4.6.3
+    cspell: 5.18.5
+    cz-conventional-changelog: 3.3.0
+    dotenv-cli: 5.0.0
+    markdownlint-cli: 0.31.1
+    npm-run-all: 4.1.5
+    prettier: 2.5.1
+    rimraf: 3.0.2
+    semantic-release: 19.0.2
+    typescript: 4.5.5
   languageName: unknown
   linkType: soft
 
@@ -1103,7 +1103,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/changelog@npm:^6.0.1":
+"@semantic-release/changelog@npm:6.0.1":
   version: 6.0.1
   resolution: "@semantic-release/changelog@npm:6.0.1"
   dependencies:
@@ -1148,7 +1148,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/exec@npm:^6.0.3":
+"@semantic-release/exec@npm:6.0.3":
   version: 6.0.3
   resolution: "@semantic-release/exec@npm:6.0.3"
   dependencies:
@@ -1164,7 +1164,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/git@npm:^10.0.1":
+"@semantic-release/git@npm:10.0.1":
   version: 10.0.1
   resolution: "@semantic-release/git@npm:10.0.1"
   dependencies:
@@ -1182,7 +1182,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/github@npm:^8.0.0, @semantic-release/github@npm:^8.0.2":
+"@semantic-release/github@npm:8.0.2, @semantic-release/github@npm:^8.0.0":
   version: 8.0.2
   resolution: "@semantic-release/github@npm:8.0.2"
   dependencies:
@@ -1208,7 +1208,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/npm@npm:^9.0.0":
+"@semantic-release/npm@npm:9.0.0, @semantic-release/npm@npm:^9.0.0":
   version: 9.0.0
   resolution: "@semantic-release/npm@npm:9.0.0"
   dependencies:
@@ -1300,7 +1300,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:>=12, @types/node@npm:^17.0.21":
+"@types/node@npm:17.0.21, @types/node@npm:>=12":
   version: 17.0.21
   resolution: "@types/node@npm:17.0.21"
   checksum: 89dcd2fe82f21d3634266f8384e9c865cf8af49685639fbdbd799bdd1040480fb1e8eeda2d3b9fce41edbe704d2a4be9f427118c4ae872e8d9bb7cbeb3c41a94
@@ -1321,7 +1321,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:^2.4.4":
+"@types/prettier@npm:2.4.4":
   version: 2.4.4
   resolution: "@types/prettier@npm:2.4.4"
   checksum: 2c2cc57efd49c7d8907415a72f96c84a6dd8696dd3bf8aa4ca3a667427bebf71cbfbc912673624bdfc935d272d1c008c639cf155f6449315990a4dc110f0d216
@@ -1578,7 +1578,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-module-resolver@npm:^4.1.0":
+"babel-plugin-module-resolver@npm:4.1.0":
   version: 4.1.0
   resolution: "babel-plugin-module-resolver@npm:4.1.0"
   dependencies:
@@ -2089,7 +2089,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"conventional-changelog-conventionalcommits@npm:^4.6.3":
+"conventional-changelog-conventionalcommits@npm:4.6.3":
   version: 4.6.3
   resolution: "conventional-changelog-conventionalcommits@npm:4.6.3"
   dependencies:
@@ -2297,7 +2297,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cspell@npm:^5.18.5":
+"cspell@npm:5.18.5":
   version: 5.18.5
   resolution: "cspell@npm:5.18.5"
   dependencies:
@@ -2341,7 +2341,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cz-conventional-changelog@npm:^3.3.0":
+"cz-conventional-changelog@npm:3.3.0":
   version: 3.3.0
   resolution: "cz-conventional-changelog@npm:3.3.0"
   dependencies:
@@ -2527,7 +2527,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dotenv-cli@npm:^5.0.0":
+"dotenv-cli@npm:5.0.0":
   version: 5.0.0
   resolution: "dotenv-cli@npm:5.0.0"
   dependencies:
@@ -4358,7 +4358,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"markdownlint-cli@npm:^0.31.1":
+"markdownlint-cli@npm:0.31.1":
   version: 0.31.1
   resolution: "markdownlint-cli@npm:0.31.1"
   dependencies:
@@ -4916,7 +4916,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"npm-run-all@npm:^4.1.5":
+"npm-run-all@npm:4.1.5":
   version: 4.1.5
   resolution: "npm-run-all@npm:4.1.5"
   dependencies:
@@ -5452,7 +5452,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.5.1":
+"prettier@npm:2.5.1":
   version: 2.5.1
   resolution: "prettier@npm:2.5.1"
   bin:
@@ -5824,7 +5824,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rimraf@npm:*, rimraf@npm:^3.0.0, rimraf@npm:^3.0.2":
+"rimraf@npm:*, rimraf@npm:3.0.2, rimraf@npm:^3.0.0, rimraf@npm:^3.0.2":
   version: 3.0.2
   resolution: "rimraf@npm:3.0.2"
   dependencies:
@@ -5895,7 +5895,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semantic-release@npm:^19.0.2":
+"semantic-release@npm:19.0.2":
   version: 19.0.2
   resolution: "semantic-release@npm:19.0.2"
   dependencies:
@@ -6608,7 +6608,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.4.3, typescript@npm:^4.5.5":
+"typescript@npm:4.5.5, typescript@npm:^4.4.3":
   version: 4.5.5
   resolution: "typescript@npm:4.5.5"
   bin:
@@ -6618,7 +6618,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.4.3#~builtin<compat/typescript>, typescript@patch:typescript@^4.5.5#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.5.5#~builtin<compat/typescript>, typescript@patch:typescript@^4.4.3#~builtin<compat/typescript>":
   version: 4.5.5
   resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=bda367"
   bin:
