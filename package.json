@@ -45,7 +45,7 @@
     "release:dry": "dotenv semantic-release --dry-run"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=v12.22.12"
   },
   "packageManager": "yarn@3.2.0",
   "devDependencies": {
