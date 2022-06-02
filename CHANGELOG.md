@@ -1,5 +1,18 @@
 # `@culur/prettier-config` changelog.
 
+## [1.2.0](https://github.com/culur/prettier-config/compare/v1.1.0...v1.2.0) (2022-06-02)
+
+### Features
+
+- **types:** use `Config` from `prettier` ([1fc0278](https://github.com/culur/prettier-config/commit/1fc02787d1b351144d5679641d11d0acd9471264))
+
+### Dependencies
+
+- **deps:** update actions/checkout action to v3 ([30f2bfd](https://github.com/culur/prettier-config/commit/30f2bfd71d52d9aa8cc289a0917c4041c622dbdf))
+- **deps:** update actions/setup-node action to v3 ([fc4db6b](https://github.com/culur/prettier-config/commit/fc4db6b30ad3345989c2a3856856082c17dfc9d5))
+- **deps:** update node.js to >=v14 ([352c563](https://github.com/culur/prettier-config/commit/352c563d52259a751eb52a411532508f0fc522bb))
+- **deps:** update yarn to v3.2.1 ([53c5800](https://github.com/culur/prettier-config/commit/53c58006e8ea13b38d77266d60d2aeb353a84a01))
+
 ## [1.0.0](https://github.com/culur/prettier-config/compare/v0.2.0...v1.0.0) (2022-02-26)
 
 ### ⚠ BREAKING CHANGES
