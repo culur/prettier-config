@@ -795,7 +795,7 @@ __metadata:
     "@semantic-release/github": ^8.0.5
     "@semantic-release/npm": ^9.0.1
     "@types/node": ^18.15.0
-    "@types/prettier": ^2.6.3
+    "@types/prettier": ^2.7.2
     babel-plugin-module-resolver: ^4.1.0
     conventional-changelog-conventionalcommits: ^5.0.0
     cspell: ^6.28.0
@@ -803,7 +803,7 @@ __metadata:
     dotenv-cli: ^7.0.0
     markdownlint-cli: ^0.33.0
     npm-run-all: ^4.1.5
-    prettier: ^2.7.1
+    prettier: ^2.8.4
     rimraf: ^4.4.0
     semantic-release: ^19.0.2
     typescript: ^4.7.2
@@ -1569,10 +1569,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:^2.6.3":
-  version: 2.6.3
-  resolution: "@types/prettier@npm:2.6.3"
-  checksum: e1836699ca189fff6d2a73dc22e028b6a6f693ed1180d5998ac29fa197caf8f85aa92cb38db642e4a370e616b451cb5722ad2395dab11c78e025a1455f37d1f0
+"@types/prettier@npm:^2.7.2":
+  version: 2.7.2
+  resolution: "@types/prettier@npm:2.7.2"
+  checksum: b47d76a5252265f8d25dd2fe2a5a61dc43ba0e6a96ffdd00c594cb4fd74c1982c2e346497e3472805d97915407a09423804cc2110a0b8e1b22cffcab246479b7
   languageName: node
   linkType: hard
 
@@ -5864,12 +5864,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.7.1":
-  version: 2.7.1
-  resolution: "prettier@npm:2.7.1"
+"prettier@npm:^2.8.4":
+  version: 2.8.4
+  resolution: "prettier@npm:2.8.4"
   bin:
     prettier: bin-prettier.js
-  checksum: 55a4409182260866ab31284d929b3cb961e5fdb91fe0d2e099dac92eaecec890f36e524b4c19e6ceae839c99c6d7195817579cdffc8e2c80da0cb794463a748b
+  checksum: c173064bf3df57b6d93d19aa98753b9b9dd7657212e33b41ada8e2e9f9884066bb9ca0b4005b89b3ab137efffdf8fbe0b462785aba20364798ff4303aadda57e
   languageName: node
   linkType: hard
 
