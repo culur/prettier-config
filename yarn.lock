@@ -731,7 +731,7 @@ __metadata:
     "@semantic-release/git": ^10.0.1
     "@semantic-release/github": ^8.0.5
     "@semantic-release/npm": ^9.0.1
-    "@types/node": ^17.0.21
+    "@types/node": ^18.15.0
     "@types/prettier": ^2.6.3
     babel-plugin-module-resolver: ^4.1.0
     conventional-changelog-conventionalcommits: ^5.0.0
@@ -1478,10 +1478,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:>=12, @types/node@npm:^17.0.21":
+"@types/node@npm:>=12":
   version: 17.0.21
   resolution: "@types/node@npm:17.0.21"
   checksum: 89dcd2fe82f21d3634266f8384e9c865cf8af49685639fbdbd799bdd1040480fb1e8eeda2d3b9fce41edbe704d2a4be9f427118c4ae872e8d9bb7cbeb3c41a94
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^18.15.0":
+  version: 18.15.0
+  resolution: "@types/node@npm:18.15.0"
+  checksum: d81372276dd5053b1743338b61a2178ff9722dc609189d01fc7d1c2acd539414039e0e4780678730514390dad3f29c366a28c29e8dbd5b0025651181f6dd6669
   languageName: node
   linkType: hard
 
