@@ -60,7 +60,7 @@
     "@types/prettier": "^2.7.3",
     "babel-plugin-module-resolver": "^5.0.0",
     "conventional-changelog-conventionalcommits": "^7.0.2",
-    "cspell": "^7.3.8",
+    "cspell": "^7.3.9",
     "cz-conventional-changelog": "^3.3.0",
     "dotenv-cli": "^7.3.0",
     "markdownlint-cli": "^0.37.0",
